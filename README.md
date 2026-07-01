@@ -59,7 +59,6 @@
 
 - Python 3.11+
 - Node.js 18+
-- Git LFS（拉取数据库用）
 
 ### 1. 克隆仓库
 
@@ -68,13 +67,22 @@ git clone https://github.com/zxs007000/gaokao-system.git
 cd gaokao-system
 ```
 
-由于数据库使用 Git LFS，克隆后需要拉取：
+### 2. 下载数据库（二选一）
 
+**方式 A — Git LFS（推荐）：**
 ```bash
 git lfs pull
 ```
 
-### 2. 启动后端
+**方式 B — Release 直链下载（无需 Git LFS）：**
+```bash
+# 下载到 data/db/ 目录
+curl -L -o data/db/gaokao.db https://github.com/zxs007000/gaokao-system/releases/download/v1.0.0/gaokao.db
+# Windows PowerShell:
+# Invoke-WebRequest -Uri https://github.com/zxs007000/gaokao-system/releases/download/v1.0.0/gaokao.db -OutFile data/db/gaokao.db
+```
+
+### 3. 启动后端
 
 ```bash
 pip install -r requirements.txt
