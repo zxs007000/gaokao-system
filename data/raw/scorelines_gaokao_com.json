@@ -1,0 +1,402 @@
+[
+  {
+    "year": "2020",
+    "province": "湖南",
+    "subject": "理科",
+    "batch": "本科一批",
+    "score": "507",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2020",
+    "province": "湖南",
+    "subject": "理科",
+    "batch": "本科二批",
+    "score": "464",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2020",
+    "province": "湖南",
+    "subject": "理科",
+    "batch": "本科三批",
+    "score": "433",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2020",
+    "province": "湖南",
+    "subject": "理科",
+    "batch": "专科批",
+    "score": "200",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2020",
+    "province": "湖南",
+    "subject": "文科",
+    "batch": "本科一批",
+    "score": "550",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2020",
+    "province": "湖南",
+    "subject": "文科",
+    "batch": "本科二批",
+    "score": "526",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2020",
+    "province": "湖南",
+    "subject": "文科",
+    "batch": "本科三批",
+    "score": "501",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2020",
+    "province": "湖南",
+    "subject": "文科",
+    "batch": "专科批",
+    "score": "200",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2019",
+    "province": "湖南",
+    "subject": "理科",
+    "batch": "本科一批",
+    "score": "500",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2019",
+    "province": "湖南",
+    "subject": "理科",
+    "batch": "本科二批",
+    "score": "448",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2019",
+    "province": "湖南",
+    "subject": "理科",
+    "batch": "本科三批",
+    "score": "414",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2019",
+    "province": "湖南",
+    "subject": "理科",
+    "batch": "专科",
+    "score": "200",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2019",
+    "province": "湖南",
+    "subject": "文科",
+    "batch": "本科一批",
+    "score": "553",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2019",
+    "province": "湖南",
+    "subject": "文科",
+    "batch": "本科二批",
+    "score": "523",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2019",
+    "province": "湖南",
+    "subject": "文科",
+    "batch": "本科三批",
+    "score": "495",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2019",
+    "province": "湖南",
+    "subject": "文科",
+    "batch": "专科",
+    "score": "200",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2018",
+    "province": "湖南",
+    "subject": "理科",
+    "batch": "本科一批",
+    "score": "513",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2018",
+    "province": "湖南",
+    "subject": "理科",
+    "batch": "本科二批",
+    "score": "450",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2018",
+    "province": "湖南",
+    "subject": "理科",
+    "batch": "本科三批",
+    "score": "409",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2018",
+    "province": "湖南",
+    "subject": "理科",
+    "batch": "专科",
+    "score": "200",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2018",
+    "province": "湖南",
+    "subject": "文科",
+    "batch": "本科一批",
+    "score": "569",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2018",
+    "province": "湖南",
+    "subject": "文科",
+    "batch": "本科二批",
+    "score": "526",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2018",
+    "province": "湖南",
+    "subject": "文科",
+    "batch": "本科三批",
+    "score": "486",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2018",
+    "province": "湖南",
+    "subject": "文科",
+    "batch": "专科",
+    "score": "200",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2017",
+    "province": "湖南",
+    "subject": "理科",
+    "batch": "本科一批",
+    "score": "505",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2020",
+    "province": "重庆",
+    "subject": "理科",
+    "batch": "本科一批",
+    "score": "500",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2020",
+    "province": "重庆",
+    "subject": "理科",
+    "batch": "本科二批",
+    "score": "411",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2020",
+    "province": "重庆",
+    "subject": "理科",
+    "batch": "专科批",
+    "score": "180",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2020",
+    "province": "重庆",
+    "subject": "文科",
+    "batch": "本科一批",
+    "score": "536",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2020",
+    "province": "重庆",
+    "subject": "文科",
+    "batch": "本科二批",
+    "score": "443",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2020",
+    "province": "重庆",
+    "subject": "文科",
+    "batch": "专科批",
+    "score": "180",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2019",
+    "province": "重庆",
+    "subject": "理科",
+    "batch": "本科一批",
+    "score": "525",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2019",
+    "province": "重庆",
+    "subject": "理科",
+    "batch": "本科二批",
+    "score": "435",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2019",
+    "province": "重庆",
+    "subject": "理科",
+    "batch": "专科",
+    "score": "180",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2019",
+    "province": "重庆",
+    "subject": "文科",
+    "batch": "本科一批",
+    "score": "545",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2019",
+    "province": "重庆",
+    "subject": "文科",
+    "batch": "本科二批",
+    "score": "458",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2019",
+    "province": "重庆",
+    "subject": "文科",
+    "batch": "专科",
+    "score": "180",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2018",
+    "province": "重庆",
+    "subject": "理科",
+    "batch": "本科一批",
+    "score": "524",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2018",
+    "province": "重庆",
+    "subject": "理科",
+    "batch": "本科二批",
+    "score": "428",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2018",
+    "province": "重庆",
+    "subject": "理科",
+    "batch": "专科",
+    "score": "140",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2018",
+    "province": "重庆",
+    "subject": "文科",
+    "batch": "本科一批",
+    "score": "524",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2018",
+    "province": "重庆",
+    "subject": "文科",
+    "batch": "本科二批",
+    "score": "434",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2018",
+    "province": "重庆",
+    "subject": "文科",
+    "batch": "专科",
+    "score": "140",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2017",
+    "province": "重庆",
+    "subject": "理科",
+    "batch": "本科一批",
+    "score": "492",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2017",
+    "province": "重庆",
+    "subject": "理科",
+    "batch": "本科二批",
+    "score": "395",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2017",
+    "province": "重庆",
+    "subject": "理科",
+    "batch": "专科",
+    "score": "140",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2017",
+    "province": "重庆",
+    "subject": "文科",
+    "batch": "本科一批",
+    "score": "525",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2017",
+    "province": "重庆",
+    "subject": "文科",
+    "batch": "本科二批",
+    "score": "436",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2017",
+    "province": "重庆",
+    "subject": "文科",
+    "batch": "专科",
+    "score": "140",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2016",
+    "province": "重庆",
+    "subject": "理科",
+    "batch": "专科",
+    "score": "140",
+    "source": "gaokao_com"
+  }
+]

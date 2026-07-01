@@ -1,0 +1,29 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# API密钥配置文件（禁止提交）
+.env
+
+# 前端构建
+frontend/node_modules/
+frontend/.next/
+
+# 日志和截图
+*.log
+screenshot*.png
+
+# 原始数据文件
+data/raw/*.html
+data/raw/*.json
+!data/raw/.gitkeep
+data/cleaned/*
+!data/cleaned/.gitkeep
+
+# 数据库文件使用 Git LFS 管理
+data/db/*.db
+!data/db/.gitkeep
+
+# 系统文件
+.DS_Store
+Thumbs.db

@@ -1,0 +1,602 @@
+[
+  {
+    "year": "2022",
+    "province": "河南",
+    "subject": "理科",
+    "batch": "本科一批",
+    "score": "509",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2022",
+    "province": "河南",
+    "subject": "理科",
+    "batch": "本科二批",
+    "score": "405",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2022",
+    "province": "河南",
+    "subject": "理科",
+    "batch": "高职高专批",
+    "score": "190",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2022",
+    "province": "河南",
+    "subject": "文科",
+    "batch": "本科一批",
+    "score": "527",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2022",
+    "province": "河南",
+    "subject": "文科",
+    "batch": "本科二批",
+    "score": "445",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2022",
+    "province": "河南",
+    "subject": "文科",
+    "batch": "高职高专批",
+    "score": "190",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2021",
+    "province": "河南",
+    "subject": "理科",
+    "batch": "本科一批",
+    "score": "518",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2021",
+    "province": "河南",
+    "subject": "理科",
+    "batch": "本科二批",
+    "score": "400",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2021",
+    "province": "河南",
+    "subject": "理科",
+    "batch": "专科批",
+    "score": "200",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2021",
+    "province": "河南",
+    "subject": "文科",
+    "batch": "本科一批",
+    "score": "558",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2021",
+    "province": "河南",
+    "subject": "文科",
+    "batch": "本科二批",
+    "score": "466",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2021",
+    "province": "河南",
+    "subject": "文科",
+    "batch": "专科批",
+    "score": "200",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2020",
+    "province": "河南",
+    "subject": "理科",
+    "batch": "本科一批",
+    "score": "544",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2020",
+    "province": "河南",
+    "subject": "理科",
+    "batch": "本科二批",
+    "score": "418",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2020",
+    "province": "河南",
+    "subject": "理科",
+    "batch": "专科批",
+    "score": "180",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2020",
+    "province": "河南",
+    "subject": "文科",
+    "batch": "本科一批",
+    "score": "556",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2020",
+    "province": "河南",
+    "subject": "文科",
+    "batch": "本科二批",
+    "score": "465",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2020",
+    "province": "河南",
+    "subject": "文科",
+    "batch": "专科批",
+    "score": "180",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2019",
+    "province": "河南",
+    "subject": "理科",
+    "batch": "本科一批",
+    "score": "502",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2019",
+    "province": "河南",
+    "subject": "理科",
+    "batch": "本科二批",
+    "score": "385",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2019",
+    "province": "河南",
+    "subject": "理科",
+    "batch": "专科",
+    "score": "160",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2019",
+    "province": "河南",
+    "subject": "文科",
+    "batch": "本科一批",
+    "score": "536",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2019",
+    "province": "河南",
+    "subject": "文科",
+    "batch": "本科二批",
+    "score": "477",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2019",
+    "province": "河南",
+    "subject": "文科",
+    "batch": "专科",
+    "score": "160",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2018",
+    "province": "河南",
+    "subject": "理科",
+    "batch": "本科一批",
+    "score": "499",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2022",
+    "province": "海南",
+    "subject": "综合改革",
+    "batch": "本科批",
+    "score": "471",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2022",
+    "province": "海南",
+    "subject": "综合改革",
+    "batch": "国家专项计划",
+    "score": "471",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2022",
+    "province": "海南",
+    "subject": "综合改革",
+    "batch": "部分特殊类型",
+    "score": "569",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2022",
+    "province": "海南",
+    "subject": "综合改革",
+    "batch": "体育类",
+    "score": "416",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2022",
+    "province": "海南",
+    "subject": "综合改革",
+    "batch": "艺术类本科",
+    "score": "353",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2021",
+    "province": "海南",
+    "subject": "综合改革",
+    "batch": "本科批",
+    "score": "466",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2021",
+    "province": "海南",
+    "subject": "综合改革",
+    "batch": "特殊类型招生控制线特殊类型招生控制线",
+    "score": "569",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2021",
+    "province": "海南",
+    "subject": "综合改革",
+    "batch": "国家专项计划批",
+    "score": "466",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2021",
+    "province": "海南",
+    "subject": "综合改革",
+    "batch": "体育类（本科）",
+    "score": "414",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2021",
+    "province": "海南",
+    "subject": "综合改革",
+    "batch": "艺术类（本科）",
+    "score": "350",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2020",
+    "province": "海南",
+    "subject": "综合改革",
+    "batch": "本科批",
+    "score": "463",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2020",
+    "province": "海南",
+    "subject": "综合改革",
+    "batch": "国家专项计划批",
+    "score": "463",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2020",
+    "province": "海南",
+    "subject": "综合改革",
+    "batch": "专科批",
+    "score": "250",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2020",
+    "province": "海南",
+    "subject": "综合改革",
+    "batch": "特殊类型招生控制线",
+    "score": "569",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2019",
+    "province": "海南",
+    "subject": "理科",
+    "batch": "本科A批",
+    "score": "539",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2019",
+    "province": "海南",
+    "subject": "理科",
+    "batch": "国家专项计划",
+    "score": "539",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2019",
+    "province": "海南",
+    "subject": "理科",
+    "batch": "自主招生批",
+    "score": "603",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2019",
+    "province": "海南",
+    "subject": "文科",
+    "batch": "本科A批",
+    "score": "593",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2019",
+    "province": "海南",
+    "subject": "文科",
+    "batch": "国家专项计划",
+    "score": "593",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2019",
+    "province": "海南",
+    "subject": "文科",
+    "batch": "自主招生批",
+    "score": "654",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2018",
+    "province": "海南",
+    "subject": "理科",
+    "batch": "本科A批",
+    "score": "539",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2018",
+    "province": "海南",
+    "subject": "理科",
+    "batch": "国家专项计划",
+    "score": "539",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2018",
+    "province": "海南",
+    "subject": "理科",
+    "batch": "自主招生批",
+    "score": "602",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2018",
+    "province": "海南",
+    "subject": "文科",
+    "batch": "本科A批",
+    "score": "579",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2018",
+    "province": "海南",
+    "subject": "文科",
+    "batch": "国家专项计划",
+    "score": "579",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2022",
+    "province": "江西",
+    "subject": "理科",
+    "batch": "第一批本科",
+    "score": "509",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2022",
+    "province": "江西",
+    "subject": "理科",
+    "batch": "第二批本科",
+    "score": "440",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2022",
+    "province": "江西",
+    "subject": "理科",
+    "batch": "专科",
+    "score": "150",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2022",
+    "province": "江西",
+    "subject": "文科",
+    "batch": "第一批本科",
+    "score": "529",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2022",
+    "province": "江西",
+    "subject": "文科",
+    "batch": "第二批本科",
+    "score": "472",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2022",
+    "province": "江西",
+    "subject": "文科",
+    "batch": "专科",
+    "score": "150",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2021",
+    "province": "江西",
+    "subject": "理科",
+    "batch": "本科一批",
+    "score": "519",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2021",
+    "province": "江西",
+    "subject": "理科",
+    "batch": "本科二批",
+    "score": "443",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2021",
+    "province": "江西",
+    "subject": "文科",
+    "batch": "本科一批",
+    "score": "559",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2021",
+    "province": "江西",
+    "subject": "文科",
+    "batch": "本科二批",
+    "score": "496",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2020",
+    "province": "江西",
+    "subject": "理科",
+    "batch": "本科一批",
+    "score": "535",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2020",
+    "province": "江西",
+    "subject": "理科",
+    "batch": "本科二批",
+    "score": "463",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2020",
+    "province": "江西",
+    "subject": "理科",
+    "batch": "专科批",
+    "score": "150",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2020",
+    "province": "江西",
+    "subject": "文科",
+    "batch": "本科一批",
+    "score": "547",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2020",
+    "province": "江西",
+    "subject": "文科",
+    "batch": "本科二批",
+    "score": "488",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2020",
+    "province": "江西",
+    "subject": "文科",
+    "batch": "专科批",
+    "score": "150",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2019",
+    "province": "江西",
+    "subject": "理科",
+    "batch": "本科一批",
+    "score": "522",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2019",
+    "province": "江西",
+    "subject": "理科",
+    "batch": "本科二批",
+    "score": "449",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2019",
+    "province": "江西",
+    "subject": "理科",
+    "batch": "专科",
+    "score": "160",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2019",
+    "province": "江西",
+    "subject": "文科",
+    "batch": "本科一批",
+    "score": "558",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2019",
+    "province": "江西",
+    "subject": "文科",
+    "batch": "本科二批",
+    "score": "502",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2019",
+    "province": "江西",
+    "subject": "文科",
+    "batch": "专科",
+    "score": "160",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2018",
+    "province": "江西",
+    "subject": "理科",
+    "batch": "本科一批",
+    "score": "527",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2018",
+    "province": "江西",
+    "subject": "理科",
+    "batch": "本科二批",
+    "score": "447",
+    "source": "gaokao_com"
+  },
+  {
+    "year": "2018",
+    "province": "江西",
+    "subject": "文科",
+    "batch": "本科一批",
+    "score": "568",
+    "source": "gaokao_com"
+  }
+]
